@@ -25,7 +25,7 @@
 
 ---
 
-##Next Steps 
+## Next Steps 
 
 - Instead of a dummy heuristic use trained and labeled data
 - Collect data for training
