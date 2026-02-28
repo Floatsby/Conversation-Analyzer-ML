@@ -17,11 +17,11 @@
 
 ## What I have done and next Steps
 
-- **For Sentiment Analysis -Transformer - distilbert-base-uncased-finetuned-sst-2-english
-- **For Emotion detection -Transformer - j-hartmann/emotion-english-distilroberta-base
-- **For Argument / Dispute Detection - Transformer Classifier - Fine-tune roberta-base on labeled chat data
-- **For Interest Trend / Fading Interest - Sequence model - LSTM or BERT on conversation history
-- **For Relationship Outcome Prediction - Classifier Heuristic - Custom classifier or heuristics (TBD)
+- For Sentiment Analysis -Transformer - distilbert-base-uncased-finetuned-sst-2-english
+- For Emotion detection -Transformer - j-hartmann/emotion-english-distilroberta-base
+- For Argument / Dispute Detection - Transformer Classifier - Fine-tune roberta-base on labeled chat data
+- For Interest Trend / Fading Interest - Sequence model - LSTM or BERT on conversation history
+- For Relationship Outcome Prediction - Classifier Heuristic - Custom classifier or heuristics (TBD)
 
 ---
 
